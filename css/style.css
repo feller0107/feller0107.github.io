@@ -67,6 +67,7 @@ a:focus {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     background-color: transparent;
+	border-top: 10px solid #ffa500;
 }
 
 .navbar-custom .navbar-brand {
